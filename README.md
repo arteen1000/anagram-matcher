@@ -1,2 +1,2 @@
 # Anagrams-CS32-
-an anagram checker. Project 3 for CS32 with Ambrosio in Summer 2022. Searches through a dictionary file and finds matching anagrams to a word you input. Kind of useless.
+an anagram checker. Project 3 for CS32 with Ambrosio in Summer 2022. Searches through a dictionary file and finds matching anagrams to a word you input. Kind of useless, but I learned recursion.
