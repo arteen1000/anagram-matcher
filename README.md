@@ -1,2 +1,2 @@
 # Anagram Matcher
-will match for anagrams based on user input in given file.
+Outputs matching anagrams in attached dictionary file upon user input. Implemented using recursion in `anagrams.c`.
