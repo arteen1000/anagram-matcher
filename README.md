@@ -1,2 +1,2 @@
-# Anagrams-CS32-
+# Anagram Matcher
 will match for anagrams based on user input in given file.
